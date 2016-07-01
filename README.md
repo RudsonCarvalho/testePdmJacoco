@@ -1,4 +1,3 @@
 # testePmdJacoco
 
-Na verdade é PMD com JaCoCo rsrsrsrs 
-apenas teste criado no maven.
+Projeto criado no maven para testar o pmd + jacoco.
